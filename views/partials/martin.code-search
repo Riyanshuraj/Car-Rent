@@ -1,0 +1,10 @@
+# Query: martin
+# ContextLines: 1
+
+1 result - 1 file
+
+views\partials\footer.hbs:
+  4          <div class="centerItems">
+  5:             <p class="m-0 text-center text-white">Copyright  © reserved by Riyanshu Raj</p>
+  6          </div>
+npm
